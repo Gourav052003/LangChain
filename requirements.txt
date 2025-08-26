@@ -24,3 +24,14 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+
+# Hugging Face Dependencies
+torch
+sentence_transformers
+
+# Streamlit for UI
+streamlit
+
+#pydantic
+pydantic
+pydantic[email]
