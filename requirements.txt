@@ -35,3 +35,6 @@ streamlit
 #pydantic
 pydantic
 pydantic[email]
+
+#chains
+grandalf
