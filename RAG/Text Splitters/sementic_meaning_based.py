@@ -13,7 +13,7 @@ text_splitter = SemanticChunker(
     OpenAIEmbeddings(),
     breakpoint_threshold_type = "standard_deviation",
     breakpoint_threshold_amount=0.5,
-)
+)   
 
 docs = text_splitter.create_documents([text])
 print(docs)
